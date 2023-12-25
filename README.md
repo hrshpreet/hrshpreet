@@ -9,13 +9,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hrshpreet&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshpreet&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hrshpreet&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hrshpreet&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=hrshpreet&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
